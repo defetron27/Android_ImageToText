@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageToText</string>
+
+    <string name="permission_preference">PERMISSION_PREFERENCE</string>
+    <string name="permission_CAMERA">PERMISSION_CAMERA</string>
+</resources>

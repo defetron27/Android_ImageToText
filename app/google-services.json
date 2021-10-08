@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "142748569330",
+    "firebase_url": "https://jokerjokes-dbe51.firebaseio.com",
+    "project_id": "jokerjokes-dbe51",
+    "storage_bucket": "jokerjokes-dbe51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142748569330:android:7bbfbf3e0a9d0bdb",
+        "android_client_info": {
+          "package_name": "com.def.max.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142748569330-j4an4lvg0iuiudj84iloi2bvae4sf67m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.def.max.imagetotext",
+            "certificate_hash": "c1fdf431c64b962bd1bf42ddd4e7255d01d76f6a"
+          }
+        },
+        {
+          "client_id": "142748569330-6ccgg27s2l1s94iv041bnnm5h973tafo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHv1CaX68eclfMQcF3V8_u5vE7DWWnit0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142748569330-jb1o0fcc50uqe7bucj0flf54jmi7ldkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
